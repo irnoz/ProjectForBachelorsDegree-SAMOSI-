@@ -1,0 +1,13 @@
+GUI
+PySimpleGUI as sg
+pandas as pd
+os
+cv2 as cv
+os
+PIL
+numpy
+cv2
+math
+keras
+keras.models
+python@3.8
